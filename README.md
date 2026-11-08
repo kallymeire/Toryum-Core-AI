@@ -53,4 +53,8 @@ The core relies on a closed-loop eutectic molten-salt fuel balance utilizing thr
                                +---------------------------+
                                |     C++20 Hardware Bus    |
                                | (Actuators & Sensors Driver) |
+<<<<<<< HEAD
                                +---------------------------+
+=======
+                               +---------------------------+
+>>>>>>> e40ef0bbdb7d230522c96e63a85db39b8b42be94
