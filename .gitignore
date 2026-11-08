@@ -1,0 +1,18 @@
+# Visual Studio Code & Editors
+.vscode/
+.idea/
+*.swp
+*.DS_Store
+
+# C++ Build & Compilation Files
+build/
+bin/
+obj/
+*.o
+*.obj
+*.exe
+*.out
+ToryumCoreEngine
+
+# Temporary Logs
+*.log
