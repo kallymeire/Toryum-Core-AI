@@ -16,3 +16,6 @@ ToryumCoreEngine
 
 # Temporary Logs
 *.log
+emsdk/
+emsdk*.zip
+build/

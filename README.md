@@ -207,9 +207,9 @@ To compile and execute the native C++ numerical physics solver locally:
 - [x] Initial C++20 RK4 numerical solver setup for PRKE point kinetics and heat transfer.
 - [x] Real-time Sci-Fi control dashboard implementation (HTML5/CSS3/JavaScript + SVG).
 - [x] Continuous deployment and verification on GitHub Pages.
-- [ ] WebAssembly (Wasm) integration to compile `main.cpp` directly for in-browser DOM execution.
-- [ ] Expansion to a 6-group delayed neutron precursor decay model.
-- [ ] Multi-zone spatial core discretization for non-uniform heat distribution.
+- [x] WebAssembly (Wasm) integration to compile `main.cpp` directly for in-browser DOM execution.
+- [x] Expansion to a 6-group delayed neutron precursor decay model.
+- [x] Multi-zone spatial core discretization for non-uniform heat distribution.
 
 ---
 
